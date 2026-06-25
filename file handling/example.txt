@@ -1,3 +1,5 @@
-Hello Kasun
-Welcome to the Full Stack Data Science Practicethis is appended line to the file
-this is appended line to the file
+this is new to file line
+this is appended line to the filethis is first line
+this is second line
+this is third line
+Data Science is the best
